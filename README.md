@@ -1,5 +1,5 @@
 # Diamond Price Prediction
-This is my first competition to predict model made using python on jupyter notebooks in kaggle with Shai and won first place in competition.💪🏻💪🏻
+This is my first competition to predict model made using python on jupyter notebooks in kaggle with Shai and I came in the first.💪🏻💪🏻
 
 https://www.kaggle.com/competitions/shai-club
 
